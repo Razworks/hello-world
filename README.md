@@ -1,4 +1,4 @@
 # hello-world
 Hello World project
-This is a little bit about this project.
-Lipsum.
+This is a brief description about this project.
+Holy crud.
